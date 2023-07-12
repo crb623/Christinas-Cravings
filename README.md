@@ -1,4 +1,4 @@
-# Cider-Sips
+# Christina's Cravings
 
 ## Overview
 Remember craving chicken parm or drunken noodles but not knowing where to order the dish from. Christina's Cravings can help with this issue! Christina's Cavings is a web app that allows users to view food realted blog postings, that rate dishes at resturants. Users will not be requried to register or log in to use the application. 
