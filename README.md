@@ -1,4 +1,4 @@
-# Cider-Sips
+# Christina's Cravings 
 
 ## Overview
 Remember craving chicken parm or drunken noodles but not knowing where to order the dish from. Christina's Cravings can help with this issue! Christina's Cavings is a web app that allows users to view food realted blog postings, that rate dishes at resturants. Users will not be requried to register or log in to use the application. 
@@ -46,26 +46,26 @@ An Example List with Embedded Items:
 
 /homepage - home page providing popular and recent reviews
 
-![Home Page](Cider-Sips/documentation/home-page.png)
+![Home Page](documentation/home-page.png)
 
 /searchpage - search page providing posts that match the users search inputs
 
-![Search Page](Cider-Sips/documentation/search-results.png)
+![Search Page](documentation/search-results.png)
 
 /allblogposts - page that shows all blog posts
 
-![All Blog Posts](Cider-Sips/documentation/all-blog-posts.png)
+![All Blog Posts](documentation/all-blog-posts.png)
 
 /dishpostdetails - page for showing specific blog post list
 
-![Dish Post Details](Cider-Sips/documentation/dish-post-details.png)
+![Dish Post Details](documentation/dish-post-details.png)
 
 /favoritespage - page for showing all posts flagged as a favorite by the user
 
-![Favorites Page](Cider-Sips/documentation/favorites-page.png)
+![Favorites Page](documentation/favorites-page.png)
 
 ## Site map
-![Site Map](Cider-Sips/documentation/christinas-cravings-site-map.png)
+![Site Map](documentation/christinas-cravings-site-map.png)
 
 ## User Stories or Use Cases
 1. as a user, I can search for blog posts by indicated cuisines and descriptive words
@@ -88,7 +88,7 @@ An Example List with Embedded Items:
 
 ## [Link to Initial Main Project File](app.mjs) 
 
-![Skeleton Express Application Flow](Cider-Sips/documentation/express-skeleton.png)
+![Skeleton Express Application Flow](documentation/express-skeleton.png)
 
 ## Annotations / References Used
 1. [Assistance in creating skeleton Express application](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/skeleton_website#running_the_skeleton_website)
