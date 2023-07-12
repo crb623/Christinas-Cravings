@@ -1,0 +1,33 @@
+{
+  "name": "final-project-crb623",
+  "version": "1.0.0",
+  "description": "## Overview Remember craving chicken parm or drunken noodles but not knowing where to order the dish from. Christina's Cravings can help with this issue! Christina's Cavings is a web app that allows users to view food realted blog postings, that rate dishes at resturants. Users will not be requried to register or log in to use the application.",
+  "main": "Router.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyu-csci-ua-0467-001-002-spring-2023/final-project-crb623.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nyu-csci-ua-0467-001-002-spring-2023/final-project-crb623/issues"
+  },
+  "homepage": "https://github.com/nyu-csci-ua-0467-001-002-spring-2023/final-project-crb623#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "hbs": "^4.2.0",
+    "mongo-sanitize": "^1.1.0",
+    "mongodb": "^5.2.0",
+    "mongoose": "^7.0.3",
+    "mongoose-slug-updater": "^3.3.0",
+    "node": "^19.8.1",
+    "path": "^0.12.7",
+    "url": "^0.11.0"
+  }
+}

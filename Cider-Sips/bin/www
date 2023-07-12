@@ -1,0 +1,10 @@
+#!/usr/bin/env node
+
+//DIRECTLY COPIED: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/skeleton_website#running_the_skeleton_website
+//www file portion
+
+/**
+ * Module dependencies.
+ */
+
+const app = require("../app");
